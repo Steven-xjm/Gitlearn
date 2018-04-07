@@ -5,7 +5,12 @@ I want backup:
 # i was commit
 
 branch dev frist
+<<<<<<< HEAD
 =======
 
 master branch frist
 >>>>>>> master change second
+=======
+
+lovely boss
+>>>>>>> boss
